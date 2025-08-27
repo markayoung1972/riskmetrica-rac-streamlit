@@ -1,0 +1,17 @@
+bands:
+  - name: Averse
+    max: 0.33
+    description: "Low appetite – prioritise capital preservation and compliance."
+  - name: Guarded
+    max: 0.50
+    description: "Cautious appetite – selective risk-taking under tight controls."
+  - name: Balanced
+    max: 0.70
+    description: "Measured appetite – risk accepted with proportionate returns."
+  - name: Seeking
+    max: 1.00
+    description: "Higher appetite – pursue opportunities with strong oversight."
+
+defaults:
+  time_horizon_months: 12
+  risk_domain: "Enterprise"
